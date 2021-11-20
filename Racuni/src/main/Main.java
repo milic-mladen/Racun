@@ -96,9 +96,10 @@ public class Main {
 			break;
 		}
 
-		Racun[] racuni = new Racun[5];
+		Racun[] racuni = new Racun[2];
 		racuni[0] = racun1;
 		racuni[1] = racun2;
+		Racun.stanjaRacuna(racuni);
 
 	}
 
